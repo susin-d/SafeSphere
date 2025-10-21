@@ -1,0 +1,180 @@
+{
+    "pageTitles": {
+        "home": "SafeSphere: A Digital Sanctuary",
+        "chat": "Chat with Sphere | SafeSphere",
+        "resources": "Resource Hub | SafeSphere",
+        "about": "About Us | SafeSphere",
+        "privacy": "Privacy Policy | SafeSphere",
+        "contact": "Contact Us | SafeSphere",
+        "help": "Get Help Now | SafeSphere"
+    },
+    "nav": {
+        "home": "Home",
+        "chat": "Chat with Sphere",
+        "resources": "Resource Hub",
+        "about": "About Us",
+        "getHelpNow": "Get Help Now"
+    },
+    "quickExit": {
+        "safetyTip": "Safety Tip:",
+        "message": "You can quickly leave this site at any time.",
+        "button": "Quick Exit"
+    },
+    "footer": {
+        "about": "About Us",
+        "privacy": "Privacy Policy",
+        "contact": "Contact Us",
+        "copyright": "© {{year}} SafeSphere. All Rights Reserved."
+    },
+    "home": {
+        "hero": {
+            "title": "A Safe Space for You.",
+            "subtitle": "Find support, information, and strength. You are not alone.",
+            "chatButton": "Chat with Sphere",
+            "resourcesButton": "Explore Resources"
+        },
+        "offer": {
+            "title": "What We Offer",
+            "chat": {
+                "title": "Anonymous Chat",
+                "description": "Confidential support is just a message away."
+            },
+            "hub": {
+                "title": "Resource Hub",
+                "description": "Access verified helplines, legal info, and articles."
+            },
+            "support": {
+                "title": "Emergency Support",
+                "description": "Quick links to get immediate help when you need it."
+            }
+        }
+    },
+    "chatbot": {
+        "initialMessage": "Hello! I am Sphere, your legal assistant. How can I help you today? Please note, I am not a lawyer and this is not legal advice. All my answers are based on canonical Indian legal sources.",
+        "loading": "Sphere is thinking...",
+        "inputPlaceholder": "Ask Sphere about your legal questions...",
+        "disclaimer": "Disclaimer: Sphere is an AI assistant and may produce inaccurate information. Please consult with a qualified professional for legal advice.",
+        "quotationsLabel": "Quotations",
+        "sourcesLabel": "Sources",
+        "confidenceLabel": "Confidence",
+        "escalationRecommended": "Escalation Recommended",
+        "consultAdvocate": "This is informational only and not legal advice. Consult a qualified advocate.",
+        "lowConfidence": {
+            "title": "Low Confidence Warning",
+            "text": "The information provided may be inaccurate or incomplete. It is strongly recommended to consult a qualified legal professional for advice on this matter."
+        },
+        "error": {
+            "initialization": "Could not initialize chat session. Please check your API key and refresh the page.",
+            "notAvailable": "Chat session is not available.",
+            "invalidResponse": "Received an invalid response format from the assistant.",
+            "unknown": "An unknown error occurred."
+        }
+    },
+    "help": {
+        "title": "Your Safety is the Priority.",
+        "subtitle": "If you are in immediate danger, please use the resources below to get help.",
+        "callPolice": "Call Police (112)",
+        "findHelpline": "Find a Local Helpline",
+        "quickExit": "Quick Exit to Google"
+    },
+    "resources": {
+        "title": "Resource Hub",
+        "subtitle": "An organized library of support. Find articles, helplines, and services to help you.",
+        "searchPlaceholder": "Search resources...",
+        "filterByCategory": "Filter by Category:",
+        "clearFilters": "Clear Filters",
+        "noResults": {
+            "title": "No Resources Found",
+            "message": "Try adjusting your search or filter."
+        },
+        "callNow": "Call Now",
+        "learnMore": "Learn More"
+    },
+    "resourceCategories": {
+        "OFFICIAL_PORTALS": "Official Government Portals",
+        "LEGAL_DATABASES": "Legal Databases & Judgments",
+        "HELPLINE_DIRECTORY": "Helpline Directory"
+    },
+    "resourceList": [
+        { "id": 1, "category": "OFFICIAL_PORTALS", "title": "India Code Portal", "description": "The official repository of all Central and State Acts passed by the Parliament and State Legislative Assemblies.", "link": "https://www.indiacode.nic.in/" },
+        { "id": 2, "category": "OFFICIAL_PORTALS", "title": "Ministry of Law & Justice", "description": "Official texts of the Constitution of India, legislative acts, and other legal frameworks.", "link": "https://lawmin.gov.in/legislative-department" },
+        { "id": 3, "category": "LEGAL_DATABASES", "title": "Supreme Court of India", "description": "Access to official judgments, daily orders, and case status from the highest court in India.", "link": "https://main.sci.gov.in/judgments" },
+        { "id": 4, "category": "LEGAL_DATABASES", "title": "eCourts Services", "description": "Search for judgments and orders from various High Courts and District Courts across India.", "link": "https://judgments.ecourts.gov.in/pdfsearch/" },
+        { "id": 5, "category": "LEGAL_DATABASES", "title": "IndianKanoon", "description": "A comprehensive, searchable database of Indian laws and court judgments. Useful for research, but verify on official portals.", "link": "https://indiankanoon.org/" },
+        { "id": 6, "category": "HELPLINE_DIRECTORY", "title": "National Commission for Women", "description": "A dedicated helpline for women in distress. Provides support and connects to police, hospitals, and legal services.", "link": "tel:7827170170" },
+        { "id": 7, "category": "HELPLINE_DIRECTORY", "title": "Women Helpline Scheme", "description": "The pan-India universal emergency helpline number 181 for women facing violence.", "link": "tel:181" }
+    ],
+    "about": {
+        "title": "About SafeSphere",
+        "mission": {
+            "title": "Our Mission",
+            "text": "To create and maintain a safe, empowering, and supportive digital sanctuary for women. We believe everyone deserves a space where they can feel heard, find reliable information, and access help without judgment. SafeSphere is our commitment to that belief."
+        },
+        "privacy": {
+            "title": "Our Commitment to Privacy",
+            "text": "Your safety and privacy are the cornerstones of SafeSphere. We are deeply committed to protecting your anonymity.",
+            "item1": { "title": "Anonymous Conversations", "text": "All chats with our AI guide, Sphere, are anonymous. We do not store personally identifiable information from your conversations." },
+            "item2": { "title": "Data Protection", "text": "We employ robust security measures to protect the platform and ensure your experience is secure." },
+            "item3": { "title": "Transparency", "text": "We believe in being open about how our platform works. Our Privacy Policy is written in plain language to be as clear as possible." }
+        },
+        "team": {
+            "title": "The People Behind the Project",
+            "text": "SafeSphere was built by a dedicated team of developers, designers, and advocates who are passionate about leveraging technology for social good. While we maintain our privacy to focus on the mission, know that this platform is built with care, empathy, and a deep understanding of the need for safe digital spaces."
+        }
+    },
+    "privacy": {
+        "title": "Privacy Policy",
+        "lastUpdated": "Last Updated: {{date}}",
+        "intro": "Welcome to SafeSphere. Your privacy and safety are extremely important to us. This policy explains what information we collect and how we protect it. We've tried to make it as clear and simple as possible.",
+        "section1": {
+            "title": "1. Information We Do NOT Collect",
+            "text": "We are committed to your anonymity. We have designed SafeSphere to operate without collecting personal information from you.",
+            "item1": { "title": "Chat Conversations", "text": "Your conversations with our AI chatbot, Sphere, are processed in real-time but are not stored in a way that is linked to any personal identifier. We do not ask for your name, email, or any other contact information." },
+            "item2": { "title": "Personal Data", "text": "We do not require you to create an account. We do not collect or store your name, email address, physical address, phone number, or IP address." }
+        },
+        "section2": {
+            "title": "2. Information We Collect",
+            "text": "We collect minimal, non-personally identifiable information to improve our service.",
+            "item1": { "title": "Anonymous Usage Data", "text": "We may collect anonymous data about how you use the website, such as which pages are visited most often. This helps us understand what features are most helpful, but this data is aggregated and cannot be used to identify you." }
+        },
+        "section3": {
+            "title": "3. How We Use Information",
+            "text": "The limited anonymous information we collect is used solely for the purpose of operating and improving SafeSphere. We use it to:",
+            "item1": "Understand user needs and improve the website's functionality.",
+            "item2": "Ensure the stability and security of our platform."
+        },
+        "section4": {
+            "title": "4. Data Sharing",
+            "text": "We do not sell, trade, or rent any user information to others. Because we do not collect personally identifiable information, there is nothing for us to share."
+        },
+        "section5": {
+            "title": "5. Quick Exit Feature",
+            "text": "Our \"Quick Exit\" feature is designed to enhance your safety. When used, it immediately redirects you to a neutral website (like Google) and clears the current page from your browser's session history, making it harder for someone to see you were on our site using the \"back\" button."
+        },
+        "section6": {
+            "title": "6. Contact Us",
+            "text": "If you have any questions about this Privacy Policy, please use our Contact Form. Please do not send sensitive information through this form."
+        }
+    },
+    "contact": {
+        "title": "Contact Us",
+        "emergencyWarning": {
+            "title": "This form is NOT for emergencies.",
+            "text": "If you are in crisis or need immediate help, please go to our",
+            "link": "Get Help Now page"
+        },
+        "submitted": {
+            "title": "Thank You!",
+            "text": "Your message has been sent. We appreciate you reaching out."
+        },
+        "form": {
+            "name": { "label": "Name (Optional)" },
+            "email": {
+                "label": "Email (Optional)",
+                "description": "Provide an email only if you would like a response. Please ensure it is safe for you to receive a reply."
+            },
+            "message": { "label": "Message" },
+            "submitButton": "Send Message"
+        }
+    }
+}
